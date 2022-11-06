@@ -1,0 +1,3 @@
+print 
+printn
+no print
